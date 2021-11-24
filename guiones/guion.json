@@ -1,0 +1,364 @@
+{   "audio":"audios/final2.mp3",
+    "modelo":"modelos/camaras2.glb",
+    "fondo":"rgb(100,100,100)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":0,
+                "camara":"camara1",
+                "target":"target1",
+                "nombre":"inicio"
+           },
+           {
+               "tiempo":"00:03",
+               "duracion":2000,
+               "camara":"camara2",
+               "target":"target2",
+               "nombre":"inicio2"
+          },
+          {
+               "tiempo":"00:06",
+               "duracion":5000,
+               "camara":"camara3",
+               "target":"target3",
+               "nombre":"ricitos papuuu"
+          },
+          {
+               "tiempo":"00:11",
+               "duracion":5500,
+               "camara":"target3",
+               "target":"target3-a",
+               "nombre":"ricitos caminando"
+          },
+          {
+               "tiempo":"00:17",
+               "duracion":1000,
+               "camara":"target3-a",
+               "target":"escalera1",
+               "nombre":"ricitos escalera1"
+          },
+          {
+               "tiempo":"00:18",
+               "duracion":1000,
+               "camara":"escalera1",
+               "target":"escalera1",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:19",
+               "duracion":1000,
+               "camara":"escalera1",
+               "target":"escalera2",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:20",
+               "duracion":1000,
+               "camara":"escalera2",
+               "target":"escalera3",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:21",
+               "duracion":1000,
+               "camara":"escalera3",
+               "target":"target3a",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:22",
+               "duracion":1000,
+               "camara":"target3a",
+               "target":"target3ab",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:23",
+               "duracion":1000,
+               "camara":"target3ab",
+               "target":"target3ac",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:24",
+               "duracion":1000,
+               "camara":"target3ac",
+               "target":"target3ad",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:25",
+               "duracion":1000,
+               "camara":"target3ad",
+               "target":"target3ae",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:26",
+               "duracion":1000,
+               "camara":"target3ae",
+               "target":"target3af",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:27",
+               "duracion":1000,
+               "camara":"target3af",
+               "target":"target3ag",
+               "nombre":"ricitos escalera2"
+          },
+          {
+               "tiempo":"00:28",
+               "duracion":1000,
+               "camara":"target3ag",
+               "target":"target3b",
+               "nombre":"ricitos escalera2"
+          },
+
+          {
+               "tiempo":"00:29",
+               "duracion":1000,
+               "camara":"target3b",
+               "target":"target3c",
+               "nombre":"ricitos escalera3"
+          },
+          {
+               "tiempo":"00:30",
+               "duracion":5000,
+               "camara":"target3c",
+               "target":"target3c-a",
+               "nombre":"ricitos primer piso"
+          },
+
+
+
+
+          {
+               "tiempo":"00:35",
+               "duracion":1000,
+               "camara":"target3c-a",
+               "target":"target3d",
+               "nombre":"ricitos mirada hacia habitacion"
+          },
+          {
+               "tiempo":"00:36",
+               "duracion":6000,
+               "camara":"target3d",
+               "target":"target3d",
+               "nombre":"ricitos en habitacion"
+          },
+          
+          {
+               "tiempo":"00:41",
+               "duracion":4000,
+               "camara":"target3d",
+               "target":"target3d",
+               "nombre":"ricitos en habitacion"
+          },
+          {
+               "tiempo":"00:45",
+               "duracion":4000,
+               "camara":"target3d",
+               "target":"target4a",
+               "nombre":"ricitos en habitacion"
+          },
+          {
+               "tiempo":"00:49",
+               "duracion":4000,
+               "camara":"target3d",
+               "target":"target4b",
+               "nombre":"ricitos en habitacion2"
+          },
+          {
+               "tiempo":"00:53",
+               "duracion":4000,
+               "camara":"target3d",
+               "target":"target5a",
+               "nombre":"ricitos hacia cama grande"
+          },
+          {
+               "tiempo":"00:57",
+               "duracion":4000,
+               "camara":"target4b",
+               "target":"target5a",
+               "nombre":"ricitos prueba cama grande"
+          },
+          {
+               "tiempo":"01:01",
+               "duracion":1000,
+               "camara":"target4b",
+               "target":"target4b",
+               "nombre":"ricitos cama grande salto"
+          },
+          {
+               "tiempo":"01:02",
+               "duracion":1000,
+               "camara":"target5b",
+               "target":"target6",
+               "nombre":"ricitos cama grande salto1"
+          },
+          {
+               "tiempo":"01:03",
+               "duracion":1000,
+               "camara":"target4b",
+               "target":"target6",
+               "nombre":"ricitos cama grande salto2"
+          },
+          {
+               "tiempo":"01:04",
+               "duracion":1000,
+               "camara":"target5b",
+               "target":"target6",
+               "nombre":"ricitos cama grande salto3"
+          },
+          {
+               "tiempo":"01:05",
+               "duracion":1000,
+               "camara":"target4b",
+               "target":"target6",
+               "nombre":"ricitos cama grande salto4"
+          },
+          {
+               "tiempo":"01:06",
+               "duracion":1000,
+               "camara":"target5b",
+               "target":"target6",
+               "nombre":"ricitos cama grande salto5"
+          },
+          {
+               "tiempo":"01:07",
+               "duracion":1000,
+               "camara":"target4b",
+               "target":"target5a",
+               "nombre":"ricitos cama grande salto6"
+          },
+          {
+               "tiempo":"01:10",
+               "duracion":5000,
+               "camara":"target7a",
+               "target":"target4a",
+               "nombre":"ricitos hacia cama mediana"
+          },
+          {
+               "tiempo":"01:15",
+               "duracion":1000,
+               "camara":"target6",
+               "target":"target5b",
+               "nombre":"ricitos cama mediana salto1"
+          },
+          {
+               "tiempo":"01:16",
+               "duracion":1000,
+               "camara":"target6a",
+               "target":"target5b",
+               "nombre":"ricitos cama mediana salto2"
+          },
+          {
+               "tiempo":"01:17",
+               "duracion":1000,
+               "camara":"target6",
+               "target":"target5b",
+               "nombre":"ricitos cama mediana salto3"
+          },
+          {
+               "tiempo":"01:18",
+               "duracion":1000,
+               "camara":"target6a",
+               "target":"target5b",
+               "nombre":"ricitos cama mediana salto4"
+          },
+          {
+               "tiempo":"01:19",
+               "duracion":1000,
+               "camara":"target6",
+               "target":"target5b",
+               "nombre":"ricitos cama mediana salto5"
+          },
+          {
+               "tiempo":"01:20",
+               "duracion":1000,
+               "camara":"target6a",
+               "target":"target5b",
+               "nombre":"ricitos cama mediana salto6"
+          },
+          {
+               "tiempo":"01:21",
+               "duracion":5000,
+               "camara":"target6a",
+               "target":"target4a",
+               "nombre":"ricitos hacia cama chica"
+          },
+          {
+               "tiempo":"01:28",
+               "duracion":5000,
+               "camara":"target8d",
+               "target":"target3d",
+               "nombre":"ricitos hacia cama chica 2"
+          },
+          {
+               "tiempo":"01:34",
+               "duracion":2000,
+               "camara":"target8a",
+               "target":"target3d",
+               "nombre":"ricitos  cama chica salto1"
+          },
+          {
+               "tiempo":"01:36",
+               "duracion":1000,
+               "camara":"target8b",
+               "target":"target3d",
+               "nombre":"ricitos  cama chica salto2"
+          },
+          {
+               "tiempo":"01:37",
+               "duracion":1000,
+               "camara":"target8a",
+               "target":"target3d",
+               "nombre":"ricitos  cama chica salto3"
+          },
+          {
+               "tiempo":"01:38",
+               "duracion":1000,
+               "camara":"target8b",
+               "target":"target3d",
+               "nombre":"ricitos  cama chica salto4"
+          },
+          {
+               "tiempo":"01:39",
+               "duracion":1000,
+               "camara":"target8a",
+               "target":"target3d",
+               "nombre":"ricitos  cama chica salto5"
+          },
+          {
+               "tiempo":"01:41",
+               "duracion":3000,
+               "camara":"target8b",
+               "target":"target3d",
+               "nombre":"ricitos  cama chica salto6"
+          },
+          {
+               "tiempo":"01:45",
+               "duracion":3000,
+               "camara":"target8a",
+               "target":"target8c",
+               "nombre":"ricitos cama chica mira para arriba"
+          },
+          {
+               "tiempo":"01:48",
+               "duracion":3000,
+               "camara":"target8a",
+               "target":"target8d",
+               "nombre":"ricitos cama chica mira para arriba 2"
+          },
+          {
+               "tiempo":"01:51",
+               "duracion":2000,
+               "camara":"target8c",
+               "target":"target8e",
+               "nombre":"ricitos cama chica se recuesta"
+          }
+      ]
+      
+}
