@@ -22,7 +22,7 @@
                "duracion":5000,
                "camara":"camara3",
                "target":"target3",
-               "nombre":"ricitos papuuu"
+               "nombre":"ricitos"
           },
           {
                "tiempo":"00:11",
@@ -36,84 +36,84 @@
                "duracion":1000,
                "camara":"target3-a",
                "target":"escalera1",
-               "nombre":"ricitos escalera1"
+               "nombre":""
           },
           {
                "tiempo":"00:18",
                "duracion":1000,
                "camara":"escalera1",
                "target":"escalera1",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:19",
                "duracion":1000,
                "camara":"escalera1",
                "target":"escalera2",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:20",
                "duracion":1000,
                "camara":"escalera2",
                "target":"escalera3",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:21",
                "duracion":1000,
                "camara":"escalera3",
                "target":"target3a",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:22",
                "duracion":1000,
                "camara":"target3a",
                "target":"target3ab",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:23",
                "duracion":1000,
                "camara":"target3ab",
                "target":"target3ac",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:24",
                "duracion":1000,
                "camara":"target3ac",
                "target":"target3ad",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:25",
                "duracion":1000,
                "camara":"target3ad",
                "target":"target3ae",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:26",
                "duracion":1000,
                "camara":"target3ae",
                "target":"target3af",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:27",
                "duracion":1000,
                "camara":"target3af",
                "target":"target3ag",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
           {
                "tiempo":"00:28",
                "duracion":1000,
                "camara":"target3ag",
                "target":"target3b",
-               "nombre":"ricitos escalera2"
+               "nombre":""
           },
 
           {
@@ -121,7 +121,7 @@
                "duracion":1000,
                "camara":"target3b",
                "target":"target3c",
-               "nombre":"ricitos escalera3"
+               "nombre":""
           },
           {
                "tiempo":"00:30",
